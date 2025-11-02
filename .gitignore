@@ -1,0 +1,13 @@
+# Workspace
+.vscode/
+
+# Python generated files
+*.pyc
+__pycache__/
+
+# Data Store
+*.xml
+*.csv
+*.json
+data/
+jsons/
